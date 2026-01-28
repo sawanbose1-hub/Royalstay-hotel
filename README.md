@@ -1,5 +1,9 @@
-Royalstay-hotel
- ├── index.html
- ├── css/
- ├── js/
- └── images/
+index.html
+about.html
+rooms.html
+gallery.html
+contact.html
+css/
+js/
+images/
+README.md
